@@ -18,6 +18,14 @@ das ist der code der OS, gemacht für dem Zuse Z4.
 01100001 01001010 01111010 11000011 
 10000010 11000011 10000011 01011100 
 01110010 01011100 00110000
+
+auch, ich habe es in hex code, hier:
+
+01 53 59 53 
+61 4A 7A C3 
+82 C3 83 5C 
+72 5C 30
+
 Bedeutung der Sequenz:
 
 SOH (00000001): Start des Headers.
